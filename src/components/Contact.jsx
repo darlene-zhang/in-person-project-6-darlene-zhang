@@ -1,0 +1,1 @@
+// State: formData (object) stores the user's input, and errors (object) stores validation errors.

@@ -3,6 +3,9 @@
 // Each component should manage its own state as appropriate
 
 import './App.css'
+import Projects from './components/Projects'
+import Navbar from './components/Navbar'
+
 
 function App() {
   return (
@@ -19,6 +22,8 @@ function App() {
           - <Contact />
           - <Footer />
       */}
+      <Navbar />
+      <Projects />
     </div>
   )
 }
